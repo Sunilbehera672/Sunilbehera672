@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilbehera672&label=Profile%20views&color=0e75b6&style=flat" alt="sunilbehera672" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C/C++**
+- 🌱 I’m currently learning **C/C++/Java/python/Javascript/React.js/node.js/express**
 
 - 📫 How to reach me **sunilbehera672@gmail.com**
 
